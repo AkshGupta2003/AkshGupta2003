@@ -11,7 +11,4 @@ Hello! 👋 I am Aksh<br>🔭 I’m currently in BTECH 4th semester<br>🌱 I’
 ![](https://github-readme-stats.vercel.app/api?username=AkshGupta2003&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=AkshGupta2003&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshGupta2003&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
